@@ -15,8 +15,8 @@ const chartOptions = ref({
 				download: false,
 				pan: false,
 				reset: "<p>" + "重置" + "</p>",
-				zoomin: false,
-				zoomout: false,
+				zoomin: true,
+				zoomout: true,
 			},
 		},
 	},
@@ -92,44 +92,38 @@ function parseTime(time) {
 </script>
 
 <template>
-  <div class="historychart">
-    <div class="historychart-control">
-      <button
-        v-for="(key, index) in history_config.range"
-        :key="key"
-        :class="{ active: currentSeries === index }"
-        @click="currentSeries = index"
-      >
-        {{ timeTerms[key] }}
-      </button>
-    </div>
-    <div
-      v-if="!props.series || !props.series[currentSeries]"
-      class="historychart-error"
-    >
-      <span>error</span>
-      <p>歷史資料異常</p>
-    </div>
-    <div
-      v-else-if="props.series[currentSeries]"
-      :style="{ width: '100%' }"
-    >
-      <apexchart
-        width="100%"
-        height="155px"
-        type="area"
-        :options="chartOptions"
-        :series="series[currentSeries]"
-      />
-    </div>
-    <div
-      v-else
-      class="historychart-error"
-    >
-      <span>error</span>
-      <p>歷史資料異常</p>
-    </div>
-  </div>
+	<div class="historychart">
+		<div class="historychart-control">
+			<button
+				v-for="(key, index) in history_config.range"
+				:key="key"
+				:class="{ active: currentSeries === index }"
+				@click="currentSeries = index"
+			>
+				{{ timeTerms[key] }}
+			</button>
+		</div>
+		<div
+			v-if="!props.series || !props.series[currentSeries]"
+			class="historychart-error"
+		>
+			<span>error</span>
+			<p>歷史資料異常</p>
+		</div>
+		<div v-else-if="props.series[currentSeries]" :style="{ width: '100%' }">
+			<apexchart
+				width="100%"
+				height="155px"
+				type="area"
+				:options="chartOptions"
+				:series="series[currentSeries]"
+			/>
+		</div>
+		<div v-else class="historychart-error">
+			<span>error</span>
+			<p>歷史資料異常</p>
+		</div>
+	</div>
 </template>
 
 <style lang="scss" scoped>

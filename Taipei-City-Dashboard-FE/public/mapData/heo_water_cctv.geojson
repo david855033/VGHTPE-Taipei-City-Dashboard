@@ -1,0 +1,537 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB",
+				"station_name": "分洪入口1",
+				"district": "北投區",
+				"image_width": 704,
+				"url": "https://heocctv3.gov.taipei/channel8/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.501445, 25.137549]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB001",
+				"station_name": "南港公園閘門",
+				"district": "南港區",
+				"image_width": 640,
+				"url": "https://heocctv3.gov.taipei/channel1/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.592549, 25.043523]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB002",
+				"station_name": "碧湖公園溢流口",
+				"district": "內湖區",
+				"image_width": 640,
+				"url": "https://heocctv3.gov.taipei/channel2/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.58344, 25.080138]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB003",
+				"station_name": "大溝溪園區滯洪池",
+				"district": "內湖區",
+				"image_width": 1920,
+				"url": "https://heocctv3.gov.taipei/channel3/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.59838, 25.08918]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB055",
+				"station_name": "彩虹橋(松山分局)",
+				"district": "松山區",
+				"image_width": 768,
+				"url": "https://heocctv3.gov.taipei/channel55/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.576775, 25.051646]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB065",
+				"station_name": "雙園抽水站",
+				"district": "萬華區",
+				"image_width": 1280,
+				"url": "https://heocctv3.gov.taipei/channel65/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.488195, 25.030633]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB071",
+				"station_name": "福德宮",
+				"district": "北投區",
+				"image_width": 704,
+				"url": "https://heocctv3.gov.taipei/channel71/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.482975, 25.11433]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB081",
+				"station_name": "金瑞治水園區滯洪池",
+				"district": "內湖區",
+				"image_width": 1280,
+				"url": "https://heocctv3.gov.taipei/channel81/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.581901, 25.091201]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB084",
+				"station_name": "文山滯洪池2",
+				"district": "文山區",
+				"image_width": 640,
+				"url": "https://heocctv3.gov.taipei/channel73/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.559477, 24.997343]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB087",
+				"station_name": "合江公園",
+				"district": "中山區",
+				"image_width": 640,
+				"url": "https://heocctv3.gov.taipei/channel76/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.539243, 25.058763]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB089",
+				"station_name": "憲兵滯洪池(池內)",
+				"district": "文山區",
+				"image_width": 640,
+				"url": "https://heocctv3.gov.taipei/channel79/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.55451, 25.000882]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB095",
+				"station_name": "南深橋4",
+				"district": "南港區",
+				"image_width": 704,
+				"url": "https://heocctv3.gov.taipei/channel95/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.615192, 25.029389]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB103",
+				"station_name": "磺捷橋",
+				"district": "北投區",
+				"image_width": 640,
+				"url": "https://heocctv1.gov.taipei/channel25/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.491009, 25.138035]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB105",
+				"station_name": "指南溪斷面5",
+				"district": "文山區",
+				"image_width": 640,
+				"url": "https://heocctv1.gov.taipei/channel27/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.578897, 24.983923]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB106",
+				"station_name": "關渡碼頭停車場",
+				"district": "北投區",
+				"image_width": 704,
+				"url": "https://heocctv1.gov.taipei/channel28/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.46192, 25.121123]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB107",
+				"station_name": "內溝溪",
+				"district": "內湖區",
+				"image_width": 1280,
+				"url": "https://heocctv1.gov.taipei/channel30/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.624044, 25.080123]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB109",
+				"station_name": "大安路1段84巷",
+				"district": "大安區",
+				"image_width": 1280,
+				"url": "https://heocctv1.gov.taipei/channel32/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.545061, 25.041022]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB111",
+				"station_name": "東吳大學網球場",
+				"district": "士林區",
+				"image_width": 1280,
+				"url": "https://heocctv1.gov.taipei/channel35/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.544393, 25.095709]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB113",
+				"station_name": "百齡右岸三腳渡碼頭",
+				"district": "士林區",
+				"image_width": 1280,
+				"url": "https://heocctv1.gov.taipei/channel37/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.517981, 25.080985]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB114",
+				"station_name": "臺北大橋下",
+				"district": "大同區",
+				"image_width": 1280,
+				"url": "https://heocctv1.gov.taipei/channel38/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.509004, 25.063127]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB117",
+				"station_name": "島頭越堤坡道",
+				"district": "士林區",
+				"image_width": 1280,
+				"url": "https://heocctv1.gov.taipei/channel42/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.46964, 25.109578]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB118",
+				"station_name": "雙溪右岸士林橋下游",
+				"district": "士林區",
+				"image_width": 1280,
+				"url": "https://heocctv1.gov.taipei/channel43/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.523088, 25.099991]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB123",
+				"station_name": "延平河濱公園大稻埕碼頭廣場",
+				"district": "大同區",
+				"image_width": 640,
+				"url": "https://heocctv1.gov.taipei/channel41/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.508151, 25.056877]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB124",
+				"station_name": "四維路44巷26號",
+				"district": "大安區",
+				"image_width": 1280,
+				"url": "https://heocctv1.gov.taipei/channel33/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.546458, 25.035615]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB208",
+				"station_name": "東湖國中1",
+				"district": "內湖區",
+				"image_width": 1280,
+				"url": "https://heocctv1.gov.taipei/channel46/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.620787, 25.072626]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB210",
+				"station_name": "大湖1號閘門1",
+				"district": "內湖區",
+				"image_width": 1920,
+				"url": "https://heocctv1.gov.taipei/channel48/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.606877, 25.078413]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB236",
+				"station_name": "通河西街2段提外",
+				"district": "士林區",
+				"image_width": 1280,
+				"url": "https://heocctv4.gov.taipei/channel4/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50938, 25.091951]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB239",
+				"station_name": "迎風河濱公園迎風停車2",
+				"district": "士林區",
+				"image_width": 1280,
+				"url": "https://heocctv4.gov.taipei/channel7/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.554126, 25.073464]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB241",
+				"station_name": "基六號疏散門",
+				"district": "松山區",
+				"image_width": 1280,
+				"url": "https://heocctv4.gov.taipei/channel9/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.568323, 25.063316]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB242",
+				"station_name": "基隆河內二疏散門",
+				"district": "內湖區",
+				"image_width": 1280,
+				"url": "https://heocctv4.gov.taipei/channel10/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.617952, 25.065913]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB243",
+				"station_name": "大佳河濱公園巨蛋廣場",
+				"district": "中山區",
+				"image_width": 1280,
+				"url": "https://heocctv4.gov.taipei/channel11/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.540329, 25.075012]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB244",
+				"station_name": "大佳河濱公園網球場旁廣場",
+				"district": "中山區",
+				"image_width": 1920,
+				"url": "https://heocctv4.gov.taipei/channel12/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53084, 25.075362]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB246",
+				"station_name": "永福橋",
+				"district": "中正區",
+				"image_width": 640,
+				"url": "https://heocctv4.gov.taipei/channel14/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.527924, 25.011442]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB248",
+				"station_name": "恆光橋及道南遊戲區2",
+				"district": "文山區",
+				"image_width": 1280,
+				"url": "https://heocctv4.gov.taipei/channel16/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.566159, 24.981509]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB250",
+				"station_name": "景美溪橋",
+				"district": "文山區",
+				"image_width": 1280,
+				"url": "https://heocctv4.gov.taipei/channel18/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.545087, 24.984488]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB252",
+				"station_name": "百齡橋越堤自行車牽引道",
+				"district": "士林區",
+				"image_width": 704,
+				"url": "https://heocctv4.gov.taipei/channel20/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.518132, 25.090615]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB256",
+				"station_name": "華中遊戲區",
+				"district": "萬華區",
+				"image_width": 1920,
+				"url": "https://heocctv4.gov.taipei/channel24/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.492602, 25.01771]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_no": "PB257",
+				"station_name": "景美橋(世新)",
+				"district": "文山區",
+				"image_width": 1280,
+				"url": "https://heocctv4.gov.taipei/channel25/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54387, 24.989511]
+			}
+		}
+	]
+}

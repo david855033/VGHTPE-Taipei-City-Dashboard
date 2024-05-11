@@ -4,40 +4,44 @@
 <script setup></script>
 
 <template>
-  <div class="mappopup">
-    <div class="mappopup-tab">
-      <div
-        v-for="(mapConfig, index) in mapConfigs"
-        :key="mapConfig.id"
-        :class="{ 'mappopup-tab-active': activeTab === index }"
-      >
-        <button
-          @click="
-            () => {
-              activeTab = index;
-            }
-          "
-        >
-          {{
-            activeTab === index
-              ? mapConfig.title
-              : mapConfig.title.length > 5
-                ? mapConfig.title.slice(0, 4) + "..."
-                : mapConfig.title
-          }}
-        </button>
-      </div>
-    </div>
-    <div class="mappopup-content">
-      <div
-        v-for="item in mapConfigs[activeTab].property"
-        :key="item.key"
-      >
-        <h3>{{ item.name }}</h3>
-        <p>{{ popupContent[activeTab].properties[item.key] }}</p>
-      </div>
-    </div>
-  </div>
+	<div class="mappopup">
+		<div class="mappopup-tab">
+			<div
+				v-for="(mapConfig, index) in mapConfigs"
+				:key="mapConfig.id"
+				:class="{ 'mappopup-tab-active': activeTab === index }"
+			>
+				<button
+					@click="
+						() => {
+							activeTab = index;
+						}
+					"
+				>
+					{{
+						activeTab === index
+							? mapConfig.title
+							: mapConfig.title.length > 5
+							? mapConfig.title.slice(0, 4) + "..."
+							: mapConfig.title
+					}}
+				</button>
+			</div>
+		</div>
+		<div class="mappopup-content">
+			<div v-for="item in mapConfigs[activeTab].property" :key="item.key">
+				<h3>{{ item.name }}</h3>
+				<p v-if="item.key === 'url'">
+					<a
+						:href="popupContent[activeTab].properties[item.key]"
+						target="url"
+						>點我開啟外部連結</a
+					>
+				</p>
+				<p v-else>{{ popupContent[activeTab].properties[item.key] }}</p>
+			</div>
+		</div>
+	</div>
 </template>
 
 <style lang="scss">
@@ -94,7 +98,7 @@
 }
 
 .mappopup {
-	max-height: 200px;
+	max-height: 250px;
 	padding: 10px;
 	overflow-y: scroll;
 

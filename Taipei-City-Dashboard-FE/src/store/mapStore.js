@@ -38,6 +38,8 @@ import { calculateGradientSteps } from "../assets/configs/mapbox/arcGradient";
 import { voronoi } from "../assets/utilityFunctions/voronoi.js";
 import { interpolation } from "../assets/utilityFunctions/interpolation.js";
 import { marchingSquare } from "../assets/utilityFunctions/marchingSquare.js";
+// Add CCTV Snapshots from Taipei Hydraulic Engineering Office
+import { cctvStations } from "../assets/configs/mapbox/cctvStations.js";
 
 export const useMapStore = defineStore("map", {
 	state: () => ({
@@ -156,6 +158,7 @@ export const useMapStore = defineStore("map", {
 				"bike_green",
 				"bike_orange",
 				"bike_red",
+				"park",
 			];
 			images.forEach((element) => {
 				this.map.loadImage(
@@ -165,6 +168,12 @@ export const useMapStore = defineStore("map", {
 						this.map.addImage(element, image);
 					}
 				);
+			});
+			cctvStations.forEach((element) => {
+				this.map.loadImage(element.url, (error, image) => {
+					if (error) throw error;
+					this.map.addImage(element.station_no, image);
+				});
 			});
 		},
 		// 4. Toggle district boundaries
@@ -317,6 +326,14 @@ export const useMapStore = defineStore("map", {
 			this.loadingLayers = this.loadingLayers.filter(
 				(el) => el !== map_config.layerId
 			);
+			// Change the cursor to a pointer when the mouse is over the places layer.
+			this.map.on("mouseenter", map_config.layerId, () => {
+				this.map.getCanvas().style.cursor = "pointer";
+			});
+			// Change it back to a pointer when it leaves.
+			this.map.on("mouseleave", map_config.layerId, () => {
+				this.map.getCanvas().style.cursor = "";
+			});
 		},
 		// 4-2. Add Map Layer for Arc Maps
 		AddArcMapLayer(map_config, data) {
@@ -683,6 +700,51 @@ export const useMapStore = defineStore("map", {
 				setTimeout(() => {
 					this.map.resize();
 				}, 200);
+			}
+		},
+
+		/* Download Map Data Function */
+		downloadMapData(sourceId, fileName) {
+			if (!this.map || !fileName) {
+				return;
+			}
+			const source = this.map.getSource(sourceId + "-source");
+			const regExp = /(?:\.([^.]+))?$/;
+			const fileExtension = regExp.exec(fileName)[1];
+			if (source) {
+				let data, blob;
+				if (fileExtension === "geojson") {
+					data = source.serialize().data;
+					blob = new Blob([JSON.stringify(data)], {
+						type: "application/json",
+					});
+				} else if (fileExtension === "pbf") {
+					axios
+						.get(source.tiles[0], {
+							responseType: "arraybuffer",
+						})
+						.then(
+							(response) =>
+								(blob = new Blob(response, {
+									type: "application/octet-stream",
+								}))
+						);
+				}
+				const url = URL.createObjectURL(blob);
+				const link = document.createElement("a");
+				link.href = url;
+				link.download = fileName;
+				link.click();
+				URL.revokeObjectURL(url);
+			}
+		},
+
+		/* Check if map has rendered */
+		ifMapLoaded() {
+			if (this.map) {
+				return true;
+			} else {
+				return false;
 			}
 		},
 
