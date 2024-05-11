@@ -31,11 +31,17 @@
 		<div class="mappopup-content">
 			<div v-for="item in mapConfigs[activeTab].property" :key="item.key">
 				<h3>{{ item.name }}</h3>
-				<p v-if="item.key === 'url'">
+				<p
+					v-if="
+						(item.key === 'url' || item.key === '網址') &&
+						popupContent[activeTab].properties[item.key] !== '' &&
+						popupContent[activeTab].properties[item.key] !== '無'
+					"
+				>
 					<a
 						:href="popupContent[activeTab].properties[item.key]"
 						target="url"
-						>點我開啟外部連結</a
+						>{{ popupContent[activeTab].properties[item.key] }}</a
 					>
 				</p>
 				<p v-else>{{ popupContent[activeTab].properties[item.key] }}</p>
