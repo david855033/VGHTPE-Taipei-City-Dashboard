@@ -1,0 +1,5027 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5629083,25.0593151 ]
+    },
+    "properties": {
+    "name":"臺北市兒童托育資源中心",
+    "town":"松山區",
+    "address":"臺北市松山區三民里024鄰民生東路5段163之1號7樓",
+    "marker":"",
+    "contact":"(02)2748-6008",
+    "type":"兒童托育資源中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5226684,25.0892037 ]
+    },
+    "properties": {
+    "name":"臺北市士林托嬰中心",
+    "town":"士林區",
+    "address":"臺北市士林區義信里014鄰基河路130號1樓",
+    "marker":"",
+    "contact":"(02)2883-6242",
+    "type":"公辦民營托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5133075,25.0671628 ]
+    },
+    "properties": {
+    "name":"臺北市大同托嬰中心",
+    "town":"大同區",
+    "address":"臺北市大同區重慶北路3段120巷2號3樓",
+    "marker":"",
+    "contact":"(02)2598-9926",
+    "type":"公辦民營托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.535609,25.0140746 ]
+    },
+    "properties": {
+    "name":"臺北市大安托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區羅斯福路4段21號",
+    "marker":"",
+    "contact":"(02)2365-6565",
+    "type":"公辦民營托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5263386,25.062038 ]
+    },
+    "properties": {
+    "name":"臺北市中山托嬰中心",
+    "town":"中山區",
+    "address":"臺北市中山區林森北路511號（新興國中）",
+    "marker":"",
+    "contact":"(02)2521-4118",
+    "type":"公辦民營托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5143526,25.0251379 ]
+    },
+    "properties": {
+    "name":"臺北市中正托嬰中心",
+    "town":"中正區",
+    "address":"臺北市中正區詔安街29號（螢橋國小新大樓1樓）",
+    "marker":"",
+    "contact":"(02)2301-7171",
+    "type":"公辦民營托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5324623,25.0412008 ]
+    },
+    "properties": {
+    "name":"臺北市新生托嬰中心",
+    "town":"中正區",
+    "address":"臺北市中正區新生南路1段54巷5弄2號1、2樓",
+    "marker":"",
+    "contact":"(02)2351-7197",
+    "type":"公辦民營托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5683655,25.0823089 ]
+    },
+    "properties": {
+    "name":"臺北市內湖托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區內湖路1段659號2樓",
+    "marker":"",
+    "contact":"(02)7709-7991",
+    "type":"公辦民營托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6005675,25.0882053 ]
+    },
+    "properties": {
+    "name":"臺北市大湖托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區大湖山莊街170號",
+    "marker":"",
+    "contact":"(02)2794-3017",
+    "type":"公辦民營托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5656678,25.0826777 ]
+    },
+    "properties": {
+    "name":"臺北市西湖托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區環山路1段25號忠孝樓及新忠孝樓2樓",
+    "marker":"",
+    "contact":"(02)8797-8863",
+    "type":"公辦民營托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.579916,24.998248 ]
+    },
+    "properties": {
+    "name":"臺北市文山托嬰中心",
+    "town":"文山區",
+    "address":"臺北市文山區木柵路1段177號2樓",
+    "marker":"",
+    "contact":"(02)2236-1388",
+    "type":"公辦民營托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5407316,24.9899858 ]
+    },
+    "properties": {
+    "name":"臺北市景美托嬰中心",
+    "town":"文山區",
+    "address":"臺北市文山區羅斯福路6段455巷28號1至2樓",
+    "marker":"",
+    "contact":"(02)8663-5692",
+    "type":"公辦民營托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5631973,24.9881785 ]
+    },
+    "properties": {
+    "name":"臺北市興隆托嬰中心",
+    "town":"文山區",
+    "address":"臺北市文山區興隆路4段105巷49號",
+    "marker":"",
+    "contact":"(02)2937-4896",
+    "type":"公辦民營托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4992082,25.1325101 ]
+    },
+    "properties": {
+    "name":"臺北市北投托嬰中心",
+    "town":"北投區",
+    "address":"臺北市北投區光明路22號2樓",
+    "marker":"",
+    "contact":"(02)2897-3848",
+    "type":"公辦民營托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4671448,25.1198847 ]
+    },
+    "properties": {
+    "name":"臺北市關渡托嬰中心",
+    "town":"北投區",
+    "address":"臺北市北投區知行路212號2樓",
+    "marker":"",
+    "contact":"(02)2858-1758",
+    "type":"公辦民營托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5635135,25.0523589 ]
+    },
+    "properties": {
+    "name":"臺北市松山托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區三民路5號",
+    "marker":"",
+    "contact":"(02)3765-1775",
+    "type":"公辦民營托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.567042,25.0545512 ]
+    },
+    "properties": {
+    "name":"臺北市健康托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區健康路323號1樓",
+    "marker":"",
+    "contact":"(02)2761-8321",
+    "type":"公辦民營托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5582738,25.0294154 ]
+    },
+    "properties": {
+    "name":"臺北市信義托嬰中心",
+    "town":"信義區",
+    "address":"臺北市信義區基隆路2段99號",
+    "marker":"",
+    "contact":"(02)2378-3232",
+    "type":"公辦民營托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5871226,25.0473523 ]
+    },
+    "properties": {
+    "name":"臺北市南港托嬰中心",
+    "town":"南港區",
+    "address":"臺北市南港區東新街65號",
+    "marker":"",
+    "contact":"(02)2785-6838",
+    "type":"公辦民營托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5039673,25.0425847 ]
+    },
+    "properties": {
+    "name":"臺北市萬華托嬰中心",
+    "town":"萬華區",
+    "address":"臺北市萬華區成都路98號",
+    "marker":"",
+    "contact":"(02)2388-9066",
+    "type":"公辦民營托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.49882,25.0292477 ]
+    },
+    "properties": {
+    "name":"臺北市萬大托嬰中心",
+    "town":"萬華區",
+    "address":"臺北市萬華區西藏路201號",
+    "marker":"",
+    "contact":"(02)2337-5687",
+    "type":"公辦民營托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5037322,25.0198707 ]
+    },
+    "properties": {
+    "name":"臺北市青年托嬰中心",
+    "town":"萬華區",
+    "address":"臺北市萬華區青年路188之1號",
+    "marker":"",
+    "contact":"(02)2301-1536",
+    "type":"公辦民營托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5074116,25.0327506 ]
+    },
+    "properties": {
+    "name":"臺北市中正區居家托育服務中心",
+    "town":"中正區",
+    "address":"臺北市中正區延平南路207號4樓",
+    "marker":"",
+    "contact":"(02)23019266",
+    "type":"定點臨托",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5361459,25.0021122 ]
+    },
+    "properties": {
+    "name":"臺北市文山區居家托育服務中心",
+    "town":"文山區",
+    "address":"臺北市文山區汀州路4段221號",
+    "marker":"",
+    "contact":"(02)86638295",
+    "type":"定點臨托",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5514998,25.0568714 ]
+    },
+    "properties": {
+    "name":"臺北市松山區居家托育服務中心",
+    "town":"松山區",
+    "address":"臺北市松山區敦化北路199巷5號3樓",
+    "marker":"",
+    "contact":"(02)27121051",
+    "type":"定點臨托",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.579974,25.050308 ]
+    },
+    "properties": {
+    "name":"臺北市南港區居家托育服務中心",
+    "town":"南港區",
+    "address":"臺北市南港區八德路4段768之1號3樓",
+    "marker":"",
+    "contact":"(02)27856129",
+    "type":"定點臨托",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5216472,25.1013281 ]
+    },
+    "properties": {
+    "name":"臺北市士林區居家托育服務中心",
+    "town":"士林區",
+    "address":"臺北市士林區文林路699號4樓",
+    "marker":"",
+    "contact":"(02)28330415",
+    "type":"居家托育服務中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.518163,25.0678619 ]
+    },
+    "properties": {
+    "name":"臺北市大同區居家托育服務中心",
+    "town":"大同區",
+    "address":"臺北市大同區承德路3段144號2樓",
+    "marker":"",
+    "contact":"(02)25981828",
+    "type":"居家托育服務中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5546312,25.0005937 ]
+    },
+    "properties": {
+    "name":"臺北市大安區居家托育服務中心",
+    "town":"大安區",
+    "address":"臺北市大安區辛亥路1段86號2樓之1",
+    "marker":"",
+    "contact":"(02)83695686",
+    "type":"居家托育服務中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5263166,25.0579005 ]
+    },
+    "properties": {
+    "name":"臺北市中山區居家托育服務中心",
+    "town":"中山區",
+    "address":"臺北市中山區民生東路1段70號8樓",
+    "marker":"",
+    "contact":"(02)25236919",
+    "type":"居家托育服務中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5074116,25.0327506 ]
+    },
+    "properties": {
+    "name":"臺北市中正區居家托育服務中心",
+    "town":"中正區",
+    "address":"臺北市中正區延平南路207號4樓",
+    "marker":"",
+    "contact":"(02)23019266",
+    "type":"居家托育服務中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5933537,25.084318 ]
+    },
+    "properties": {
+    "name":"臺北市內湖區居家托育服務中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區內湖路2段486號1樓",
+    "marker":"",
+    "contact":"(02)27911987",
+    "type":"居家托育服務中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5361459,25.0021122 ]
+    },
+    "properties": {
+    "name":"臺北市文山區居家托育服務中心",
+    "town":"文山區",
+    "address":"臺北市文山區汀州路4段221號",
+    "marker":"",
+    "contact":"(02)86638295",
+    "type":"居家托育服務中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5202302,25.1085379 ]
+    },
+    "properties": {
+    "name":"臺北市北投區居家托育服務中心",
+    "town":"北投區",
+    "address":"臺北市北投區東華街1段532號3樓",
+    "marker":"",
+    "contact":"(02)28211271",
+    "type":"居家托育服務中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5514998,25.0568714 ]
+    },
+    "properties": {
+    "name":"臺北市松山區居家托育服務中心",
+    "town":"松山區",
+    "address":"臺北市松山區敦化北路199巷5號3樓",
+    "marker":"",
+    "contact":"(02)27121051",
+    "type":"居家托育服務中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5769254,25.0479632 ]
+    },
+    "properties": {
+    "name":"臺北市信義區居家托育服務中心",
+    "town":"信義區",
+    "address":"臺北市信義區松隆路310號3樓之1",
+    "marker":"",
+    "contact":"(02)27654123",
+    "type":"居家托育服務中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.579974,25.050308 ]
+    },
+    "properties": {
+    "name":"臺北市南港區居家托育服務中心",
+    "town":"南港區",
+    "address":"臺北市南港區八德路4段768之1號3樓",
+    "marker":"",
+    "contact":"(02)27856129",
+    "type":"居家托育服務中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5047103,25.0270523 ]
+    },
+    "properties": {
+    "name":"臺北市萬華區居家托育服務中心",
+    "town":"萬華區",
+    "address":"臺北市萬華區中華路2段416巷5號1樓",
+    "marker":"",
+    "contact":"(02)23038678",
+    "type":"居家托育服務中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.536354,25.1102978 ]
+    },
+    "properties": {
+    "name":"臺北市芝山社區公共托育家園",
+    "town":"士林區",
+    "address":"臺北市士林區德行東路285號",
+    "marker":"",
+    "contact":"(02)28385506",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5071659,25.0841054 ]
+    },
+    "properties": {
+    "name":"臺北市葫蘆社區公共托育家園",
+    "town":"士林區",
+    "address":"臺北市士林區環河北路3段95號2樓",
+    "marker":"",
+    "contact":"(02)28105878",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5372679,25.1178607 ]
+    },
+    "properties": {
+    "name":"臺北市三玉社區公共托育家園",
+    "town":"士林區",
+    "address":"臺北市士林區天母東路116號2樓",
+    "marker":"",
+    "contact":"(02)28745376",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5178692,25.086145 ]
+    },
+    "properties": {
+    "name":"臺北市百齡社區公共托育家園",
+    "town":"士林區",
+    "address":"臺北市士林區福港街205號1樓",
+    "marker":"",
+    "contact":"(02)28815205",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5229496,25.1083492 ]
+    },
+    "properties": {
+    "name":"臺北市蘭雅社區公共托育家園",
+    "town":"士林區",
+    "address":"臺北市士林區磺溪街57號1樓",
+    "marker":"",
+    "contact":"(02)28384896",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4825723,25.1054642 ]
+    },
+    "properties": {
+    "name":"臺北市富安社區公共托育家園",
+    "town":"士林區",
+    "address":"臺北市士林區延平北路8段135號2樓",
+    "marker":"",
+    "contact":"(02)28117668",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5239086,25.09244 ]
+    },
+    "properties": {
+    "name":"臺北市士林社區公共托育家園",
+    "town":"士林區",
+    "address":"臺北市士林區大東路165號1樓",
+    "marker":"",
+    "contact":"(02)28833701",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5213883,25.0995584 ]
+    },
+    "properties": {
+    "name":"臺北市文昌社區公共托育家園",
+    "town":"士林區",
+    "address":"臺北市士林區文林路615巷20號1樓",
+    "marker":"",
+    "contact":"(02)28318272",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5167915,25.073414 ]
+    },
+    "properties": {
+    "name":"臺北市大龍社區公共托育家園",
+    "town":"大同區",
+    "address":"臺北市大同區哈密街47號",
+    "marker":"",
+    "contact":"(02)25950892",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"優",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5102803,25.0612663 ]
+    },
+    "properties": {
+    "name":"臺北市永樂社區公共托育家園",
+    "town":"大同區",
+    "address":"臺北市大同區延平北路2段266號",
+    "marker":"",
+    "contact":"(02)25530711",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5072911,25.050985 ]
+    },
+    "properties": {
+    "name":"臺北市忠孝社區公共托育家園",
+    "town":"大同區",
+    "address":"臺北市大同區西寧北路32號1樓",
+    "marker":"",
+    "contact":"(02)25527337",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"優",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5473349,25.0266775 ]
+    },
+    "properties": {
+    "name":"臺北市成功社區公共托育家園",
+    "town":"大安區",
+    "address":"臺北市大安區四維路198巷38弄10號1樓",
+    "marker":"",
+    "contact":"(02)27070857",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"優",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5379829,25.0111067 ]
+    },
+    "properties": {
+    "name":"臺北市族中社區公共托育家園",
+    "town":"大安區",
+    "address":"臺北市大安區羅斯福路4段113巷13號1樓",
+    "marker":"",
+    "contact":"(02)23770039",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5504269,25.0189218 ]
+    },
+    "properties": {
+    "name":"臺北市大安社區公共托育家園",
+    "town":"大安區",
+    "address":"臺北市大安區臥龍街129號2樓",
+    "marker":"",
+    "contact":"(02)27374956",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5404347,25.040411 ]
+    },
+    "properties": {
+    "name":"臺北市懷中社區公共托育家園",
+    "town":"大安區",
+    "address":"臺北市大安區忠孝東路3段248巷30號1樓",
+    "marker":"",
+    "contact":"(02)27780378",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5298914,25.0536299 ]
+    },
+    "properties": {
+    "name":"臺北市吉林社區公共托育家園",
+    "town":"中山區",
+    "address":"臺北市中山區吉林路110號2樓",
+    "marker":"",
+    "contact":"(02)25114698",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5462377,25.0805426 ]
+    },
+    "properties": {
+    "name":"臺北市大直社區公共托育家園",
+    "town":"中山區",
+    "address":"臺北市中山區大直街2號1樓",
+    "marker":"",
+    "contact":"(02)25530158",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5418173,25.0782517 ]
+    },
+    "properties": {
+    "name":"臺北市北安社區公共托育家園",
+    "town":"中山區",
+    "address":"臺北市中山區明水路325號1樓",
+    "marker":"",
+    "contact":"(02)25534390",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5607499,25.07955 ]
+    },
+    "properties": {
+    "name":"臺北市濱中社區公共托育家園",
+    "town":"中山區",
+    "address":"臺北市中山區樂群二路262號1樓",
+    "marker":"",
+    "contact":"(02)85015418",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"優",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5616848,25.0777662 ]
+    },
+    "properties": {
+    "name":"臺北市濱江社區公共托育家園",
+    "town":"中山區",
+    "address":"臺北市中山區樂群二路266巷99號1樓",
+    "marker":"",
+    "contact":"(02)85012413",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5074116,25.0327506 ]
+    },
+    "properties": {
+    "name":"臺北市南海社區公共托育家園",
+    "town":"中正區",
+    "address":"臺北市中正區延平南路207之1號1樓",
+    "marker":"",
+    "contact":"(02)23113689",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.560085,25.085741 ]
+    },
+    "properties": {
+    "name":"臺北市文湖社區公共托育家園",
+    "town":"內湖區",
+    "address":"臺北市內湖區文湖街15號",
+    "marker":"",
+    "contact":"(02)87978861",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"優",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5722755,25.0832926 ]
+    },
+    "properties": {
+    "name":"臺北市麗山社區公共托育家園",
+    "town":"內湖區",
+    "address":"臺北市內湖區港華街100號1樓",
+    "marker":"",
+    "contact":"(02)87510725",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"優",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5888167,25.0682455 ]
+    },
+    "properties": {
+    "name":"臺北市新湖社區公共托育家園",
+    "town":"內湖區",
+    "address":"臺北市內湖區民權東路6段138號",
+    "marker":"",
+    "contact":"(02)27968015",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5809783,25.058177 ]
+    },
+    "properties": {
+    "name":"臺北市潭美社區公共托育家園",
+    "town":"內湖區",
+    "address":"臺北市內湖區行善路179號3樓",
+    "marker":"",
+    "contact":"(02)27936532",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5791458,25.0736314 ]
+    },
+    "properties": {
+    "name":"臺北市瑞光社區公共托育家園",
+    "town":"內湖區",
+    "address":"臺北市內湖區瑞光路162號2樓",
+    "marker":"",
+    "contact":"(02)26591991",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5590765,24.9999707 ]
+    },
+    "properties": {
+    "name":"臺北市興華社區公共托育家園",
+    "town":"文山區",
+    "address":"臺北市文山區興隆路3段125巷6號",
+    "marker":"",
+    "contact":"(02)22305993",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4367288,24.9750764 ]
+    },
+    "properties": {
+    "name":"臺北市萬隆社區公共托育家園",
+    "town":"文山區",
+    "address":"臺北市文山區汀洲路4段207號1樓",
+    "marker":"",
+    "contact":"(02)29320443",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5521642,25.0025499 ]
+    },
+    "properties": {
+    "name":"臺北市興隆社區公共托育家園",
+    "town":"文山區",
+    "address":"臺北市文山區福興路2號",
+    "marker":"",
+    "contact":"(02)89315966",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.536681,25.0049147 ]
+    },
+    "properties": {
+    "name":"臺北市萬福社區公共托育家園",
+    "town":"文山區",
+    "address":"臺北市文山區羅斯福路5段170巷32號",
+    "marker":"",
+    "contact":"(02)29349616",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5505318,25.0014392 ]
+    },
+    "properties": {
+    "name":"臺北市武功社區公共托育家園",
+    "town":"文山區",
+    "address":"臺北市文山區興隆路１段68號1樓",
+    "marker":"",
+    "contact":"(02)29300388",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.567549,25.0010436 ]
+    },
+    "properties": {
+    "name":"臺北市萬芳社區公共托育家園",
+    "town":"文山區",
+    "address":"臺北市文山區萬和街1號",
+    "marker":"",
+    "contact":"(02)22302627",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5624746,24.9864769 ]
+    },
+    "properties": {
+    "name":"臺北市忠順社區公共托育家園",
+    "town":"文山區",
+    "address":"臺北市文山區興隆路4段109巷30弄6號",
+    "marker":"",
+    "contact":"(02)29362221",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"優",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5591322,25.0064326 ]
+    },
+    "properties": {
+    "name":"臺北市辛亥社區公共托育家園",
+    "town":"文山區",
+    "address":"臺北市文山區辛亥路4段103號2樓",
+    "marker":"",
+    "contact":"(02)86631134",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5450092,25.0250117 ]
+    },
+    "properties": {
+    "name":"臺北市永建社區公共托育家園",
+    "town":"文山區",
+    "address":"臺北市文山區木柵路1段311巷1號1樓",
+    "marker":"",
+    "contact":"(02)29392022",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5387091,24.9940883 ]
+    },
+    "properties": {
+    "name":"臺北市溪口社區公共托育家園",
+    "town":"文山區",
+    "address":"臺北市文山區景福街225號1樓",
+    "marker":"",
+    "contact":"(02)29330337",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.475307,25.1328975 ]
+    },
+    "properties": {
+    "name":"臺北市北投社區公共托育家園",
+    "town":"北投區",
+    "address":"臺北市北投區中央北路1段73號2樓",
+    "marker":"",
+    "contact":"(02)28962977",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4838217,25.139824 ]
+    },
+    "properties": {
+    "name":"臺北市桃源社區公共托育家園",
+    "town":"北投區",
+    "address":"臺北市北投區中央北路3段40巷45號1樓",
+    "marker":"",
+    "contact":"(02)28931077",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"優",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5170268,25.1032088 ]
+    },
+    "properties": {
+    "name":"臺北市文北社區公共托育家園",
+    "town":"北投區",
+    "address":"臺北市北投區文林北路75巷61號1樓",
+    "marker":"",
+    "contact":"(02)28280362",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.504091,25.1002536 ]
+    },
+    "properties": {
+    "name":"臺北市洲美社區公共托育家園",
+    "town":"北投區",
+    "address":"臺北市北投區福美路221號 1樓",
+    "marker":"",
+    "contact":"(02)28280372",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4894101,25.1410188 ]
+    },
+    "properties": {
+    "name":"臺北市稻香社區公共托育家園",
+    "town":"北投區",
+    "address":"臺北市北投區稻香路83號1樓",
+    "marker":"",
+    "contact":"(02)28988036",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5628304,25.0592799 ]
+    },
+    "properties": {
+    "name":"臺北市松民社區公共托育家園",
+    "town":"松山區",
+    "address":"臺北市松山區民生東路5段163之1號2樓",
+    "marker":"",
+    "contact":"(02)27652003",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5782913,25.0503201 ]
+    },
+    "properties": {
+    "name":"臺北市松山社區公共托育家園",
+    "town":"松山區",
+    "address":"臺北市松山區八德路4段746號",
+    "marker":"",
+    "contact":"(02)27480228",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5622094,25.033549 ]
+    },
+    "properties": {
+    "name":"臺北市興雅社區公共托育家園",
+    "town":"信義區",
+    "address":"臺北市信義區基隆路1段35巷47號",
+    "marker":"",
+    "contact":"(02)27495657",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"優",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5678611,25.025376 ]
+    },
+    "properties": {
+    "name":"臺北市吳興社區公共托育家園",
+    "town":"信義區",
+    "address":"臺北市信義區松仁路226號2樓",
+    "marker":"",
+    "contact":"(02)27580675",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"乙",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6171357,25.0423051 ]
+    },
+    "properties": {
+    "name":"臺北市舊莊社區公共托育家園",
+    "town":"南港區",
+    "address":"臺北市南港區舊莊街1段100號",
+    "marker":"",
+    "contact":"(02)27883976",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5935424,25.0537916 ]
+    },
+    "properties": {
+    "name":"臺北市玉成社區公共托育家園",
+    "town":"南港區",
+    "address":"臺北市南港區向陽路31號1樓",
+    "marker":"",
+    "contact":"(02)26530800",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5935717,25.0580728 ]
+    },
+    "properties": {
+    "name":"臺北市小彎社區公共托育家園",
+    "town":"南港區",
+    "address":"臺北市南港區向陽路250號1樓",
+    "marker":"",
+    "contact":"(02)27836583",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4957331,25.0277872 ]
+    },
+    "properties": {
+    "name":"臺北市日善社區公共托育家園",
+    "town":"萬華區",
+    "address":"臺北市萬華區東園街19之1號1樓",
+    "marker":"",
+    "contact":"(02)23038805",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4927516,25.0275857 ]
+    },
+    "properties": {
+    "name":"臺北市雙園社區公共托育家園",
+    "town":"萬華區",
+    "address":"臺北市萬華區興義街2號1樓",
+    "marker":"",
+    "contact":"(02)23052362",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4978536,25.0231992 ]
+    },
+    "properties": {
+    "name":"臺北市東園社區公共托育家園",
+    "town":"萬華區",
+    "address":"臺北市萬華區東園街195號",
+    "marker":"",
+    "contact":"(02)23016925",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"優",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4989116,25.0268778 ]
+    },
+    "properties": {
+    "name":"臺北市西園社區公共托育家園",
+    "town":"萬華區",
+    "address":"臺北市萬華區東園街73巷65號2樓",
+    "marker":"",
+    "contact":"(02)23391231",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4958359,25.0356553 ]
+    },
+    "properties": {
+    "name":"臺北市龍山社區公共托育家園",
+    "town":"萬華區",
+    "address":"臺北市萬華區和平西路3段235號3樓",
+    "marker":"",
+    "contact":"(02)23083199",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.502562,25.0377541 ]
+    },
+    "properties": {
+    "name":"臺北市老松社區公共托育家園",
+    "town":"萬華區",
+    "address":"臺北市萬華區桂林路64號1樓",
+    "marker":"",
+    "contact":"(02)23028488",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5207089,25.1036127 ]
+    },
+    "properties": {
+    "name":"臺北市私立怡寶優質托嬰中心",
+    "town":"士林區",
+    "address":"臺北市士林區文林路740巷9弄24號1樓",
+    "marker":"",
+    "contact":"(02)2835-8158",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5224513,25.0878815 ]
+    },
+    "properties": {
+    "name":"臺北市私立孩子國托嬰中心",
+    "town":"士林區",
+    "address":"臺北市士林區承德路4段185號及187號3樓",
+    "marker":"",
+    "contact":"(02)2888-1541#101",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5264781,25.1020514 ]
+    },
+    "properties": {
+    "name":"臺北市私立怡寶托嬰中心",
+    "town":"士林區",
+    "address":"臺北市士林區中山北路5段852號1樓",
+    "marker":"",
+    "contact":"(02)2836-1115",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5321155,25.1158406 ]
+    },
+    "properties": {
+    "name":"臺北市私立好來托嬰中心",
+    "town":"士林區",
+    "address":"臺北市士林區忠誠路2段166巷31號1樓至2樓",
+    "marker":"",
+    "contact":"(02)2871-8698",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"乙",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5238115,25.108343 ]
+    },
+    "properties": {
+    "name":"臺北市私立春田托嬰中心",
+    "town":"士林區",
+    "address":"臺北市士林區磺溪街88巷6號1樓",
+    "marker":"",
+    "contact":"(02)2836-6515",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5264873,25.1165608 ]
+    },
+    "properties": {
+    "name":"臺北市私立萌語天母托嬰中心",
+    "town":"士林區",
+    "address":"臺北市士林區中山北路6段405巷70號1樓",
+    "marker":"",
+    "contact":"(02)28718988",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"優",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.529484,25.109288 ]
+    },
+    "properties": {
+    "name":"臺北市私立春田天母托嬰中心",
+    "town":"士林區",
+    "address":"臺北市士林區忠誠路2段32巷9號1樓",
+    "marker":"",
+    "contact":"(02)2834-8523",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5195463,25.0849283 ]
+    },
+    "properties": {
+    "name":"臺北市私立怡寶質優托嬰中心",
+    "town":"士林區",
+    "address":"臺北市士林區前港街88號1樓",
+    "marker":"",
+    "contact":"(02)2881-0088",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5085428,25.0835474 ]
+    },
+    "properties": {
+    "name":"臺北市私立長藤托嬰中心",
+    "town":"士林區",
+    "address":"臺北市士林區葫蘆街140號1樓",
+    "marker":"",
+    "contact":"(02)28136942",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5298509,25.1113353 ]
+    },
+    "properties": {
+    "name":"臺北市私立維薆托嬰中心",
+    "town":"士林區",
+    "address":"臺北市士林區忠誠路2段70巷13弄1號1樓",
+    "marker":"",
+    "contact":"(02)2831-3391",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5270598,25.1214631 ]
+    },
+    "properties": {
+    "name":"臺北市私立道思托嬰中心",
+    "town":"士林區",
+    "address":"臺北市士林區天母北路61號及61之1號3樓",
+    "marker":"",
+    "contact":"(02)2873-1515",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5354636,25.1128799 ]
+    },
+    "properties": {
+    "name":"臺北市私立好來天母托嬰中心",
+    "town":"士林區",
+    "address":"臺北市士林區士東路244號1樓",
+    "marker":"",
+    "contact":"(02)2871-8697",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5224015,25.0879465 ]
+    },
+    "properties": {
+    "name":"臺北市私立孩子國萌寶托嬰中心",
+    "town":"士林區",
+    "address":"臺北市士林區承德路4段187號1樓",
+    "marker":"",
+    "contact":"(02)2888-1541",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5314902,25.1048315 ]
+    },
+    "properties": {
+    "name":"臺北市立聯合醫院附設臺北市私立陽明院區員工子女托嬰中心(委託社團法人新北市嬰幼兒托育協會經營管理)",
+    "town":"士林區",
+    "address":"臺北市士林區雨聲街105號1樓",
+    "marker":"",
+    "contact":"(02)2831-5601",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5197325,25.087252 ]
+    },
+    "properties": {
+    "name":"臺北市私立幼天才托嬰中心",
+    "town":"士林區",
+    "address":"臺北市士林區華齡街180號1樓",
+    "marker":"",
+    "contact":"(02)8861-1580",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"優",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5316143,25.1189025 ]
+    },
+    "properties": {
+    "name":"臺北市私立微笑音符托嬰中心",
+    "town":"士林區",
+    "address":"臺北市士林區中山北路七段14巷9號1樓",
+    "marker":"",
+    "contact":"(02)2875-6696",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"乙",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5134472,25.0650433 ]
+    },
+    "properties": {
+    "name":"臺北市私立詠荺托嬰中心",
+    "town":"大同區",
+    "address":"臺北市大同區重慶北路3段24號2樓",
+    "marker":"",
+    "contact":"(02)2596-1237",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5430644,25.0351892 ]
+    },
+    "properties": {
+    "name":"臺北市私立人愛托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區信義路3段147巷15弄27之1號1樓",
+    "marker":"",
+    "contact":"(02)2709-3131",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5208082,25.1035102 ]
+    },
+    "properties": {
+    "name":"臺北市私立怡寶資優托嬰中心",
+    "town":"士林區",
+    "address":"臺北巿士林區文林路740巷9弄2號1樓",
+    "marker":"",
+    "contact":"(02)2835-9818",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"優",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5429725,25.0272479 ]
+    },
+    "properties": {
+    "name":"臺北市私立寶兒女成長園地托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區復興南路2段180巷4號1樓",
+    "marker":"",
+    "contact":"(02)2705-1331",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5543144,25.035027 ]
+    },
+    "properties": {
+    "name":"臺北市私立菲力兒托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區信義路4段265巷20弄20號1樓",
+    "marker":"",
+    "contact":"(02)2754-5200",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"優",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5330127,25.0256471 ]
+    },
+    "properties": {
+    "name":"臺北市私立全家托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區溫州街12巷2之3號1樓",
+    "marker":"",
+    "contact":"(02)2369-0445",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5519434,25.0394901 ]
+    },
+    "properties": {
+    "name":"臺北市私立芽芽托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區仁愛路4段151巷25號3樓",
+    "marker":"",
+    "contact":"(02)2775-5358，(02)2775-2339",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5443087,25.0307195 ]
+    },
+    "properties": {
+    "name":"臺北市私立陽光小屋托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區瑞安街31巷5之2號1樓",
+    "marker":"",
+    "contact":"(02)2755-1866",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5472613,25.0343343 ]
+    },
+    "properties": {
+    "name":"臺北市私立小磊心托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區四維路76巷11號1樓",
+    "marker":"",
+    "contact":"(02)2700-1189",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5473828,25.0227364 ]
+    },
+    "properties": {
+    "name":"臺北市私立吉事達康博喜托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區敦化南路2段200巷20號1樓及22號1樓",
+    "marker":"",
+    "contact":"(02)2738-1616，(02)2735-1211，(02)2735-6161",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5294272,25.0298502 ]
+    },
+    "properties": {
+    "name":"臺北市私立華康托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區金華街223之5號及223之9號2樓",
+    "marker":"",
+    "contact":"(02)2391-4431，(02)3393-3780",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5561612,25.0401574 ]
+    },
+    "properties": {
+    "name":"臺北市私立愷特托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區光復南路260巷29號1樓",
+    "marker":"",
+    "contact":"(02)2781-3545",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5566642,25.0345432 ]
+    },
+    "properties": {
+    "name":"臺北市私立凱瑞莎托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區延吉街257號1樓",
+    "marker":"",
+    "contact":"(02)2702-2828",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"乙",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5259941,25.0288157 ]
+    },
+    "properties": {
+    "name":"臺北市私立亞瑟王皇家托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區潮州街108號1樓",
+    "marker":"",
+    "contact":"(02)2358-4018",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"丙(輔導通過)",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5117427,24.9932593 ]
+    },
+    "properties": {
+    "name":"臺北市私立滿兒圓蒙特梭利托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區安和路1段135巷14號1樓",
+    "marker":"",
+    "contact":"(02)2754-3196",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"乙",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.550166,25.0301091 ]
+    },
+    "properties": {
+    "name":"臺北市私立上群蒙特梭利托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區敦化南路2段81巷37號1樓",
+    "marker":"",
+    "contact":"(02)2325-0909",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5517038,25.0303208 ]
+    },
+    "properties": {
+    "name":"臺北市私立萌語托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區安和路2段70號2樓之5",
+    "marker":"",
+    "contact":"(02)2703-0888",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"優",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5354666,25.0250541 ]
+    },
+    "properties": {
+    "name":"臺北市私立芭蒂恩蒙氏家園托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區新生南路3段19巷3之1號1樓",
+    "marker":"",
+    "contact":"(02)2363-1538",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5521903,25.0329786 ]
+    },
+    "properties": {
+    "name":"臺北市私立貝蕾思地托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區安和路1段78巷43號1樓",
+    "marker":"",
+    "contact":"(02)2703-0319",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.545809,25.03092 ]
+    },
+    "properties": {
+    "name":"臺北市私立摯愛人子托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區大安路2段100號1樓",
+    "marker":"",
+    "contact":"(02)27039888",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5279006,25.0228725 ]
+    },
+    "properties": {
+    "name":"臺北市私立小天心托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區師大路86巷4號1樓",
+    "marker":"",
+    "contact":"(02)2367-8146",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5331301,25.0405552 ]
+    },
+    "properties": {
+    "name":"臺北市私立新生蒙特梭利托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區新生南路1段103巷7之1號1樓",
+    "marker":"",
+    "contact":"(02)2750-0032",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"乙",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5330343,25.0263477 ]
+    },
+    "properties": {
+    "name":"臺北市私立我們的古亭托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區和平東路1段183巷3弄2之1號1樓",
+    "marker":"",
+    "contact":"(02)2391-0805",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5318226,25.0279992 ]
+    },
+    "properties": {
+    "name":"臺北市私立凱瑞莎青田托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區青田街6之3號1樓",
+    "marker":"",
+    "contact":"(02)2321-3999",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5393171,25.0259577 ]
+    },
+    "properties": {
+    "name":"臺北市私立橘子樹寶貝托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區瑞安街155巷2號1樓",
+    "marker":"",
+    "contact":"(02)2704-8288",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5327977,25.017563 ]
+    },
+    "properties": {
+    "name":"臺北市私立采侑托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區羅斯福路3段333巷9號2樓及11號2樓",
+    "marker":"",
+    "contact":"(02)2368-1237",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5471601,25.0286581 ]
+    },
+    "properties": {
+    "name":"臺北市私立翻轉學堂托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區四維路160巷14號1樓",
+    "marker":"",
+    "contact":"(02)2704-5089",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5319829,25.018814 ]
+    },
+    "properties": {
+    "name":"臺北市私立天心大安托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區新生南路3段86巷23、25號1樓",
+    "marker":"",
+    "contact":"(02)2363-5261",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5411869,25.0237833 ]
+    },
+    "properties": {
+    "name":"臺北市私立幸福日光托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區和平東路2段96巷10弄12號及14號1樓",
+    "marker":"",
+    "contact":"(02)2738-8987",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5254963,25.0337499 ]
+    },
+    "properties": {
+    "name":"臺北市私立夏莉絲托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區信義路2段44巷12號1樓",
+    "marker":"",
+    "contact":"(02)2358-2816",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5521903,25.0329786 ]
+    },
+    "properties": {
+    "name":"臺北市私立萌語大安托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區安和路1段112巷22號",
+    "marker":"",
+    "contact":"(02)2700-9000",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5429925,25.0223981 ]
+    },
+    "properties": {
+    "name":"臺北市私立小樹屋托嬰中心",
+    "town":"大安區",
+    "address":"臺北市大安區和平東路2段118巷6弄22號1樓",
+    "marker":"",
+    "contact":"(02)2732-7324",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"乙",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5405612,25.0478977 ]
+    },
+    "properties": {
+    "name":"臺北市私立我們的中山托嬰中心",
+    "town":"中山區",
+    "address":"臺北市中山區龍江路23號2樓",
+    "marker":"",
+    "contact":"(02)2713-8551",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5402894,25.0488712 ]
+    },
+    "properties": {
+    "name":"臺北市私立麗茵蒙特梭利托嬰中心",
+    "town":"中山區",
+    "address":"臺北市中山區龍江路40號2樓",
+    "marker":"",
+    "contact":"(02)2711-1148",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.540015,25.0597333 ]
+    },
+    "properties": {
+    "name":"臺北市私立韋斯登托嬰中心",
+    "town":"中山區",
+    "address":"臺北市中山區合江街105巷16號1樓",
+    "marker":"",
+    "contact":"07010018042",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5519358,25.0834495 ]
+    },
+    "properties": {
+    "name":"臺北市私立愛美加托嬰中心",
+    "town":"中山區",
+    "address":"臺北市中山區明水路672巷36號3樓之1、38號3樓及3樓之1",
+    "marker":"",
+    "contact":"(02)8502-6665",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5306292,25.0526693 ]
+    },
+    "properties": {
+    "name":"臺北市私立松江蒙特梭利托嬰中心",
+    "town":"中山區",
+    "address":"臺北市中山區松江路124巷27號1樓",
+    "marker":"",
+    "contact":"(02)2563-9885，(02)2568-1237",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5527381,25.0824242 ]
+    },
+    "properties": {
+    "name":"臺北市私立萌家園托嬰中心",
+    "town":"中山區",
+    "address":"臺北市中山區樂群三路56號2樓",
+    "marker":"",
+    "contact":"(02)8501-5820",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"優",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5494685,25.0775265 ]
+    },
+    "properties": {
+    "name":"臺北市私立愛寶貝托嬰中心",
+    "town":"中山區",
+    "address":"臺北市中山區明水路437號1樓",
+    "marker":"",
+    "contact":"(02)2532-4766",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5465074,25.0776146 ]
+    },
+    "properties": {
+    "name":"臺北市私立禾園托嬰中心",
+    "town":"中山區",
+    "address":"臺北市中山區明水路389號1樓",
+    "marker":"",
+    "contact":"(02)2533-1313",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5384055,25.0583609 ]
+    },
+    "properties": {
+    "name":"臺北市私立布萊茲托嬰中心",
+    "town":"中山區",
+    "address":"臺北市中山區合江街100巷11號1樓",
+    "marker":"",
+    "contact":"(02)2508-1708",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"乙",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5410734,25.0595352 ]
+    },
+    "properties": {
+    "name":"臺北市私立宜家托嬰中心",
+    "town":"中山區",
+    "address":"臺北市中山區龍江路271巷3號1樓",
+    "marker":"",
+    "contact":"(02)2502-3122",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5506186,25.078314 ]
+    },
+    "properties": {
+    "name":"臺北市私立蘊品蒙特梭利托嬰中心",
+    "town":"中山區",
+    "address":"臺北市中山區明水路397巷7弄53號1樓",
+    "marker":"",
+    "contact":"(02)2532-2792",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.541627,25.0654306 ]
+    },
+    "properties": {
+    "name":"臺北市私立龍江媽咪托嬰中心",
+    "town":"中山區",
+    "address":"臺北市中山區龍江路397巷10號1樓",
+    "marker":"",
+    "contact":"(02)2505-1725",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"乙",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5498687,25.0775011 ]
+    },
+    "properties": {
+    "name":"臺北市私立愛寶貝大直園托嬰中心",
+    "town":"中山區",
+    "address":"臺北市中山區明水路443號1樓",
+    "marker":"",
+    "contact":"(02)2533-6823",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5379164,25.058175 ]
+    },
+    "properties": {
+    "name":"臺北市私立大愛托嬰中心",
+    "town":"中山區",
+    "address":"臺北市中山區民生東路3段9巷5號及7號",
+    "marker":"",
+    "contact":"(02)2506-5757",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5479766,25.0780987 ]
+    },
+    "properties": {
+    "name":"臺北市私立漢妮托嬰中心",
+    "town":"中山區",
+    "address":"臺北市中山區明水路397巷7弄9號1樓",
+    "marker":"",
+    "contact":"(02)8509-2613，(02)8509-2138",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5518597,25.078468 ]
+    },
+    "properties": {
+    "name":"臺北市私立咕咕園托嬰中心",
+    "town":"中山區",
+    "address":"臺北市中山區明水路541號1樓",
+    "marker":"",
+    "contact":"(02)2533-1718",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.525604,25.048801 ]
+    },
+    "properties": {
+    "name":"臺北市私立真愛托嬰中心",
+    "town":"中山區",
+    "address":"臺北市中山區長安東路2段167號2樓",
+    "marker":"",
+    "contact":"(02)8772-6346，(02)2740-1121",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5638859,25.0780502 ]
+    },
+    "properties": {
+    "name":"臺北市私立卡兒堡托嬰中心",
+    "town":"中山區",
+    "address":"臺北市中山區基湖路149號1樓",
+    "marker":"",
+    "contact":"(02)8502-0756",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"乙",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5220908,25.0610839 ]
+    },
+    "properties": {
+    "name":"臺北市私立日光貝比托嬰中心",
+    "town":"中山區",
+    "address":"臺北市中山區中山北路2段116巷9號2樓",
+    "marker":"",
+    "contact":"(02)2571-7858",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5322004,25.0480308 ]
+    },
+    "properties": {
+    "name":"臺北市私立笙愛托嬰中心",
+    "town":"中山區",
+    "address":"臺北市中山區松江路46巷9之1號2樓",
+    "marker":"",
+    "contact":"(02)2581-2922",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"乙",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5159849,25.0331527 ]
+    },
+    "properties": {
+    "name":"臺北市私立小哈利托嬰中心",
+    "town":"中正區",
+    "address":"臺北市中正區南昌路1段145號2樓",
+    "marker":"",
+    "contact":"(02)3393-3104",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5177664,25.026438 ]
+    },
+    "properties": {
+    "name":"臺北市私立我們的中正托嬰中心",
+    "town":"中正區",
+    "address":"臺北市中正區廈門街10號1樓",
+    "marker":"",
+    "contact":"(02)2364-3683",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5316753,25.0436152 ]
+    },
+    "properties": {
+    "name":"臺北市私立宥緣托嬰中心",
+    "town":"中正區",
+    "address":"臺北市中正區杭州南路1段131巷5號2樓",
+    "marker":"",
+    "contact":"(02)3322-5686、0988-689668",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"乙",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4883302,25.1724733 ]
+    },
+    "properties": {
+    "name":"臺北市私立宥宜托嬰中心",
+    "town":"中正區",
+    "address":"臺北市中正區杭州南路1段131巷3號2樓",
+    "marker":"",
+    "contact":"(02)3322-5686",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"乙",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5211148,25.044218 ]
+    },
+    "properties": {
+    "name":"立法院附設臺北市私立員工子女托嬰中心(委託社團法人新北市嬰幼兒托育協會經營管理)",
+    "town":"中正區",
+    "address":"臺北市中正區青島東路1-3號1樓",
+    "marker":"",
+    "contact":"(02)2358-8542、(02)2358-5858#2196",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5293585,25.0401098 ]
+    },
+    "properties": {
+    "name":"臺北市私立維棠托嬰中心",
+    "town":"中正區",
+    "address":"臺北市中正區臨沂街24巷6號1樓",
+    "marker":"",
+    "contact":"(02)2393-8080",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53242,25.0343354 ]
+    },
+    "properties": {
+    "name":"臺北市私立小天心東門托嬰中心",
+    "town":"中正區",
+    "address":"臺北市中正區新生南路1段170巷14之11號1樓",
+    "marker":"",
+    "contact":"(02)2343-5082",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"優",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5198419,25.028075 ]
+    },
+    "properties": {
+    "name":"臺北市私立家森寶貝托嬰中心",
+    "town":"中正區",
+    "address":"臺北市中正區南昌路2段27號1樓",
+    "marker":"",
+    "contact":"(02)2322-5975",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.605167,25.07222 ]
+    },
+    "properties": {
+    "name":"臺北市私立快樂托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區民權東路6段282號2樓",
+    "marker":"",
+    "contact":"(02)2632-1036",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5914195,25.0783935 ]
+    },
+    "properties": {
+    "name":"臺北市私立小小百合蒙特梭利托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區星雲街36號1樓及夾層樓",
+    "marker":"",
+    "contact":"(02)2793-8049",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.595551,25.083292 ]
+    },
+    "properties": {
+    "name":"臺北市私立貝比托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區金湖路19號1樓",
+    "marker":"",
+    "contact":"(02)2792-9558",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5656678,25.0826777 ]
+    },
+    "properties": {
+    "name":"臺北市私立櫻之圓蒙特梭利托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區環山路1段24巷8號1樓及2樓",
+    "marker":"",
+    "contact":"(02)8797-5200",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6080596,25.0706229 ]
+    },
+    "properties": {
+    "name":"臺北市私立拉斐爾托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區民權東路6段296巷87號1樓",
+    "marker":"",
+    "contact":"(02)2630-7001",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6159725,25.0707392 ]
+    },
+    "properties": {
+    "name":"臺北市私立卡爾維德蒙特梭利托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區東湖路113巷50之2號1樓",
+    "marker":"",
+    "contact":"(02)2633-2130",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5827679,25.0751135 ]
+    },
+    "properties": {
+    "name":"臺北市私立嘉霙托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區陽光街150號1樓",
+    "marker":"",
+    "contact":"(02)8797-2299",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6063138,25.0720428 ]
+    },
+    "properties": {
+    "name":"臺北市私立拉斐爾天使托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區民權東路6段296巷31弄4號2樓",
+    "marker":"",
+    "contact":"(02)2632-7322",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5942867,25.0686459 ]
+    },
+    "properties": {
+    "name":"臺北市私立斑比諾托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區民權東路6段190號1樓",
+    "marker":"",
+    "contact":"(02)2792-3235",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.607846,25.0713115 ]
+    },
+    "properties": {
+    "name":"臺北市私立愛德芬托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區民權東路6段296巷48之3號1樓",
+    "marker":"",
+    "contact":"(02)2633-8731，0970699628",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5840103,25.0777307 ]
+    },
+    "properties": {
+    "name":"臺北市私立勁寶兒文德托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區文德路210巷10、12號1樓",
+    "marker":"",
+    "contact":"(02)2627-0228，(02)2627-0538",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6066715,25.071669 ]
+    },
+    "properties": {
+    "name":"臺北市私立維多爾托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區民權東路6段296巷41號及41-1號1樓",
+    "marker":"",
+    "contact":"(02)2634-6475",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.590438,25.082217 ]
+    },
+    "properties": {
+    "name":"臺北市私立愛寶貝內湖園托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區內湖路2段271號及273號1樓至2樓",
+    "marker":"",
+    "contact":"(02)2796-2488",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6087215,25.0704301 ]
+    },
+    "properties": {
+    "name":"臺北市私立艾兒嘉托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區民權東路6段296巷66之2號1樓",
+    "marker":"",
+    "contact":"(02)2631-0095",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5924102,25.0683047 ]
+    },
+    "properties": {
+    "name":"臺北市私立永寶兒托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區民權東路六段180巷6號2樓",
+    "marker":"",
+    "contact":"(02)8792-5533",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"乙",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5877747,25.062078 ]
+    },
+    "properties": {
+    "name":"臺北市私立一貳三托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區金莊路26號1樓",
+    "marker":"",
+    "contact":"(02)27908009",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5867659,25.062785 ]
+    },
+    "properties": {
+    "name":"臺北市私立璽典托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區石潭路61號1樓",
+    "marker":"",
+    "contact":"(02)2794-8802",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.610853,25.073781 ]
+    },
+    "properties": {
+    "name":"臺北市私立喬治亞托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區2段39之2號",
+    "marker":"",
+    "contact":"(02)2797-8967",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.614522,25.069083 ]
+    },
+    "properties": {
+    "name":"臺北市私立青穗國際托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區東湖路113巷5弄16號1樓",
+    "marker":"",
+    "contact":"(02)2633-9090",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6003344,25.0848476 ]
+    },
+    "properties": {
+    "name":"臺北市私立安心圓托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區成功路4段364號",
+    "marker":"",
+    "contact":"(02)2790-9219",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.577583,25.0807169 ]
+    },
+    "properties": {
+    "name":"臺北市私立藝蘭托嬰中心",
+    "town":"內湖區",
+    "address":"臺北市內湖區港墘路84號2樓",
+    "marker":"",
+    "contact":"(02)2627-6990",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5468398,24.9956294 ]
+    },
+    "properties": {
+    "name":"臺北市私立育德托嬰中心",
+    "town":"文山區",
+    "address":"臺北市文山區景華街122號及124號2樓",
+    "marker":"",
+    "contact":"(02)2932-1919，(02)2930-2210",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5457453,24.9991862 ]
+    },
+    "properties": {
+    "name":"臺北市私立育德興隆托嬰中心",
+    "town":"文山區",
+    "address":"臺北市文山區興隆路2段61巷6號2樓",
+    "marker":"",
+    "contact":"(02)2930-3666",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5392863,25.0073909 ]
+    },
+    "properties": {
+    "name":"臺北市私立勁寶兒公館托嬰中心",
+    "town":"文山區",
+    "address":"臺北市文山區萬盛街40號及42號1樓",
+    "marker":"",
+    "contact":"(02)8663-1137，(02)8663-1486",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.568847,24.9836499 ]
+    },
+    "properties": {
+    "name":"臺北市私立芳馨園木柵托嬰中心",
+    "town":"文山區",
+    "address":"臺北市文山區木新路2段161巷4號1樓",
+    "marker":"",
+    "contact":"(02)2938-6090",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5601762,24.9887396 ]
+    },
+    "properties": {
+    "name":"臺北市私立恩予文山托嬰中心",
+    "town":"文山區",
+    "address":"臺北市文山區新光路1段31巷1號1樓",
+    "marker":"",
+    "contact":"(02)2939-2093",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5692226,24.9826343 ]
+    },
+    "properties": {
+    "name":"臺北市私立馥葆托嬰中心",
+    "town":"文山區",
+    "address":"臺北市文山區木新路2段161巷24弄2號1樓至2樓",
+    "marker":"",
+    "contact":"(02)2938-8800",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5539807,25.0018419 ]
+    },
+    "properties": {
+    "name":"臺北市私立愛兒福托嬰中心",
+    "town":"文山區",
+    "address":"臺北市文山區辛亥路4段252巷8號及8之1號1樓",
+    "marker":"",
+    "contact":"(02)2931-1099",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5409975,24.9981275 ]
+    },
+    "properties": {
+    "name":"臺北市私立樂娃兒托嬰中心",
+    "town":"文山區",
+    "address":"臺北市文山區羅斯福路6段159巷1弄18號",
+    "marker":"",
+    "contact":"(02)2931-5288",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5685168,24.9875994 ]
+    },
+    "properties": {
+    "name":"臺北市私立陽光夥伴托嬰中心",
+    "town":"文山區",
+    "address":"臺北市文山區保儀路62之3號1樓及夾層",
+    "marker":"",
+    "contact":"(02)2939-0290",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4974401,25.1308458 ]
+    },
+    "properties": {
+    "name":"臺北市私立芳馨園二館托嬰中心",
+    "town":"北投區",
+    "address":"臺北市北投區大興街23巷35號1樓",
+    "marker":"",
+    "contact":"(02)2898-1491，(02)2895-3210",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.517149,25.1172021 ]
+    },
+    "properties": {
+    "name":"臺北市私立安格托嬰中心",
+    "town":"北投區",
+    "address":"臺北市北投區石牌路2段90巷17號2樓",
+    "marker":"",
+    "contact":"(02)2823-7932",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"乙",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5251577,25.1230994 ]
+    },
+    "properties": {
+    "name":"臺北市私立向暘托嬰中心",
+    "town":"北投區",
+    "address":"臺北市北投區石牌路2段352號1樓",
+    "marker":"",
+    "contact":"(02)2872-2873",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5209509,25.1095185 ]
+    },
+    "properties": {
+    "name":"臺北市私立幼輝托嬰中心",
+    "town":"北投區",
+    "address":"臺北市北投區明德路118巷17號1樓",
+    "marker":"",
+    "contact":"(02)2823-2405",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.496002,25.13317 ]
+    },
+    "properties": {
+    "name":"臺北市私立可瑞荳托嬰中心",
+    "town":"北投區",
+    "address":"臺北市北投區大業路506之1號1樓",
+    "marker":"",
+    "contact":"(02)2893-2886",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.491816,25.1382209 ]
+    },
+    "properties": {
+    "name":"臺北市私立芳馨園托嬰中心",
+    "town":"北投區",
+    "address":"臺北市北投區中央北路2段227號1樓",
+    "marker":"",
+    "contact":"(02)2898-6662",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5087255,25.118539 ]
+    },
+    "properties": {
+    "name":"臺北市私立貝兒托嬰中心",
+    "town":"北投區",
+    "address":"臺北市北投區吉利街158號1樓及2樓",
+    "marker":"",
+    "contact":"(02)2828-0818",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5087783,25.1185957 ]
+    },
+    "properties": {
+    "name":"臺北市私立小腳ㄚ托嬰中心",
+    "town":"北投區",
+    "address":"臺北市北投區吉利街162號1樓",
+    "marker":"",
+    "contact":"(02)2827-2659",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.517367,25.105994 ]
+    },
+    "properties": {
+    "name":"臺北市私立樂葳兒托嬰中心",
+    "town":"北投區",
+    "address":"臺北市北投區文林北路112號1樓",
+    "marker":"",
+    "contact":"(02)2828-2525",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5239874,25.1220241 ]
+    },
+    "properties": {
+    "name":"臺北市私立滿月蒙特梭利托嬰中心",
+    "town":"北投區",
+    "address":"臺北市北投區石牌路2段326號",
+    "marker":"",
+    "contact":"(02)2872-5617",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"乙",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5028571,25.1356594 ]
+    },
+    "properties": {
+    "name":"臺北市私立天華托嬰中心",
+    "town":"北投區",
+    "address":"臺北市北投區光明路167號2樓",
+    "marker":"",
+    "contact":"(02)2894-2666",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5450315,25.0617654 ]
+    },
+    "properties": {
+    "name":"臺北市私立勁寶兒民權托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區民權東路3段106巷21弄5號1樓",
+    "marker":"",
+    "contact":"(02)2719-9719",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.559854,25.04803 ]
+    },
+    "properties": {
+    "name":"臺北市私立豐村托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區光復南路13巷43號1樓",
+    "marker":"",
+    "contact":"(02)2768-7959，(02)2761-9160#11",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5531713,25.0569821 ]
+    },
+    "properties": {
+    "name":"臺北市私立我們的松山托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區民生東路4段80巷1弄11號1樓",
+    "marker":"",
+    "contact":"(02)8712-0807",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5515725,25.0462687 ]
+    },
+    "properties": {
+    "name":"臺北市私立多多托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區八德路3段12巷51弄19號1樓",
+    "marker":"",
+    "contact":"(02)2579-1370，(02)2570-3638",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5571872,25.0504424 ]
+    },
+    "properties": {
+    "name":"臺北市私立凱思托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區光復北路100巷8號1樓",
+    "marker":"",
+    "contact":"(02)2579-1350",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5570362,25.0580325 ]
+    },
+    "properties": {
+    "name":"臺北市私立哈寶寶托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區民生東路5段36巷4弄41號1樓",
+    "marker":"",
+    "contact":"(02)3765-1389",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.551135,25.0529268 ]
+    },
+    "properties": {
+    "name":"臺北市私立耕心寶貝家族托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區南京東路4段53巷10弄12號1樓",
+    "marker":"",
+    "contact":"(02)2546-0169",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5460805,25.0635103 ]
+    },
+    "properties": {
+    "name":"臺北市私立貞心托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區復興北路427巷23號1樓",
+    "marker":"",
+    "contact":"(02)2713-0977",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5531069,25.0483509 ]
+    },
+    "properties": {
+    "name":"臺北市私立采禾托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區八德路3段81號2樓之1",
+    "marker":"",
+    "contact":"(02)2577-1163",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5673712,25.0559379 ]
+    },
+    "properties": {
+    "name":"臺北市私立親子坊托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區健康路325巷18弄2號1樓",
+    "marker":"",
+    "contact":"(02)8787-1601",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.548307,25.059508 ]
+    },
+    "properties": {
+    "name":"臺北市私立健寶兒托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區敦化北路222巷15號1樓",
+    "marker":"",
+    "contact":"(02)2712-3455",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"乙",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5549689,25.0462729 ]
+    },
+    "properties": {
+    "name":"臺北市私立勁寶兒延吉托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區光復南路32巷40號1樓及40之1號1樓",
+    "marker":"",
+    "contact":"(02)2577-5826，(02)2709-3131",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5570553,25.0586055 ]
+    },
+    "properties": {
+    "name":"臺北市私立哈寶貝托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區民生東路5段39之2號1樓",
+    "marker":"",
+    "contact":"(02)2756-5859",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.566855,25.0618449 ]
+    },
+    "properties": {
+    "name":"臺北市私立小晨星托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區富錦街552號1樓",
+    "marker":"",
+    "contact":"(02)2747-9565，0912811010",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5614234,25.0487086 ]
+    },
+    "properties": {
+    "name":"臺北市私立健寶兒八德托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區八德路4段111號3樓",
+    "marker":"",
+    "contact":"(02)2528-0828",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.554189,25.051844 ]
+    },
+    "properties": {
+    "name":"臺北市私立悅福托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區南京東路4段95號2樓",
+    "marker":"",
+    "contact":"(02)2547-2977",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5543306,25.051828 ]
+    },
+    "properties": {
+    "name":"臺北市私立悅和托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區南京東路4段93號2樓",
+    "marker":"",
+    "contact":"(02)2547-3118",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5520973,25.053557 ]
+    },
+    "properties": {
+    "name":"臺北市私立天使寶貝蒙特梭利托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區敦化北路145巷71號1樓",
+    "marker":"",
+    "contact":"(02)2712-6655",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5593274,25.0462688 ]
+    },
+    "properties": {
+    "name":"臺北市私立咩咩羊托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區八德路4段36巷46號及48號1樓",
+    "marker":"",
+    "contact":"(02)27655679",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5560825,25.0574433 ]
+    },
+    "properties": {
+    "name":"臺北市私立小麥穗托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區光復北路165巷11號1樓",
+    "marker":"",
+    "contact":"(02)2760-6896",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5634823,25.0537114 ]
+    },
+    "properties": {
+    "name":"臺北市私立天愛托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區三民路9號2樓之5",
+    "marker":"",
+    "contact":"(02)8787-5598",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5658338,25.0545073 ]
+    },
+    "properties": {
+    "name":"臺北市私立愛可兒托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區健康路309號1樓",
+    "marker":"",
+    "contact":"(02)2756-0533",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"乙",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5497663,25.0458978 ]
+    },
+    "properties": {
+    "name":"臺北市私立新田小屋托嬰中心",
+    "town":"松山區",
+    "address":"臺北市松山區八德路三段8巷37號1樓",
+    "marker":"",
+    "contact":"(02)2578-3796",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"優",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.563617,25.0296914 ]
+    },
+    "properties": {
+    "name":"臺北市私立小熊的家托嬰中心",
+    "town":"信義區",
+    "address":"臺北市信義區莊敬路289巷5弄28號及30號1樓",
+    "marker":"",
+    "contact":"(02)8789-3920",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5655215,25.0299214 ]
+    },
+    "properties": {
+    "name":"臺北市私立咕咕園信義托嬰中心",
+    "town":"信義區",
+    "address":"臺北市信義區松智路35號及37號1樓",
+    "marker":"",
+    "contact":"(02)2729-8959，0961227189",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"丙(輔導通過)",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.571738,25.040158 ]
+    },
+    "properties": {
+    "name":"臺北市私立薇薇安娃娃國托嬰中心",
+    "town":"信義區",
+    "address":"臺北市信義區忠孝東路5段236巷3弄29號2樓及2樓之1",
+    "marker":"",
+    "contact":"(02)2345-9330",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"乙",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5736714,25.0352788 ]
+    },
+    "properties": {
+    "name":"臺北市私立我們的信義托嬰中心",
+    "town":"信義區",
+    "address":"臺北市信義區松德路180巷11號1樓",
+    "marker":"",
+    "contact":"(02)2345-4101",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5720403,25.0381987 ]
+    },
+    "properties": {
+    "name":"臺北市私立薇薇安娃娃國信義園托嬰中心",
+    "town":"信義區",
+    "address":"臺北市信義區忠孝東路5段236巷37弄33號1樓",
+    "marker":"",
+    "contact":"(02)8780-1438",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5849326,25.0410446 ]
+    },
+    "properties": {
+    "name":"臺北市私立信義小太陽托嬰中心",
+    "town":"信義區",
+    "address":"臺北市信義區中坡南路98巷2號1樓",
+    "marker":"",
+    "contact":"(02)2727-7726",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"乙",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5686902,25.0317799 ]
+    },
+    "properties": {
+    "name":"臺北市私立維多利亞托嬰中心",
+    "town":"信義區",
+    "address":"臺北市信義區松勤街132號1樓",
+    "marker":"",
+    "contact":"(02)2345-0025",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6081769,25.0536377 ]
+    },
+    "properties": {
+    "name":"臺北市私立我們的南港托嬰中心",
+    "town":"南港區",
+    "address":"臺北市南港區市民大道8段369號2樓之1",
+    "marker":"",
+    "contact":"(02)2651-1494",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6142902,25.0471285 ]
+    },
+    "properties": {
+    "name":"臺北市私立咪妮托嬰中心",
+    "town":"南港區",
+    "address":"臺北市南港區研究院路2段34巷13號1樓",
+    "marker":"",
+    "contact":"(02)2655-9122",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6082307,25.0536594 ]
+    },
+    "properties": {
+    "name":"臺北市私立我們的中研托嬰中心",
+    "town":"南港區",
+    "address":"臺北市南港區市民大道8段369號1樓",
+    "marker":"",
+    "contact":"(02)2783-0741",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6151383,25.0606648 ]
+    },
+    "properties": {
+    "name":"臺北市私立拉斐爾甜心托嬰中心",
+    "town":"南港區",
+    "address":"臺北市南港區經貿二路231號2樓",
+    "marker":"",
+    "contact":"(02)2651-8040",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"丙(輔導不通過)",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6035826,25.0568846 ]
+    },
+    "properties": {
+    "name":"臺北市私立我們的南軟托嬰中心",
+    "town":"南港區",
+    "address":"臺北市南港區興南街50號及52巷1號1樓",
+    "marker":"",
+    "contact":"(02)2783-5265",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6066821,25.0569045 ]
+    },
+    "properties": {
+    "name":"臺北市私立拉斐爾微笑托嬰中心",
+    "town":"南港區",
+    "address":"臺北市南港區興中路68巷6號2樓之2",
+    "marker":"",
+    "contact":"(02)2788-8952",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6066821,25.0569045 ]
+    },
+    "properties": {
+    "name":"臺北市私立塞凡提甜心托嬰中心",
+    "town":"南港區",
+    "address":"臺北市南港區興中路68巷6號2樓之1",
+    "marker":"",
+    "contact":"(02)2788-8951",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5007244,25.0309977 ]
+    },
+    "properties": {
+    "name":"臺北市私立小育龍托嬰中心",
+    "town":"萬華區",
+    "address":"臺北市萬華區萬大路61號2樓",
+    "marker":"",
+    "contact":"(02)2308-9200",
+    "type":"私立托嬰中心",
+    "assessYear":111,
+    "assess":"甲",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5043392,25.0287134 ]
+    },
+    "properties": {
+    "name":"臺北市私立安馨托嬰中心",
+    "town":"萬華區",
+    "address":"臺北市萬華區中華路2段364巷5號1樓",
+    "marker":"",
+    "contact":"(02)2339-1661",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5025362,25.0311044 ]
+    },
+    "properties": {
+    "name":"臺北市私立小育龍莒光托嬰中心",
+    "town":"萬華區",
+    "address":"臺北市萬華區莒光路175號2樓",
+    "marker":"",
+    "contact":"(02)2304-3118",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5719704,25.0005647 ]
+    },
+    "properties": {
+    "name":"文山寶貝妙妙屋",
+    "town":"文山區",
+    "address":"臺北市文山區萬安街97號",
+    "marker":"",
+    "contact":"(02)22306651",
+    "type":"育兒友善園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5212477,25.1096862 ]
+    },
+    "properties": {
+    "name":"FUN鬆玩親子友善園",
+    "town":"北投區",
+    "address":"臺北市北投區明德路136巷18號1樓",
+    "marker":"",
+    "contact":"(02)28234245",
+    "type":"育兒友善園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5107757,25.1145546 ]
+    },
+    "properties": {
+    "name":"益兒小手動動屋",
+    "town":"北投區",
+    "address":"臺北市北投區石牌路一段71巷17、19號1樓",
+    "marker":"",
+    "contact":"(02)28221121",
+    "type":"育兒友善園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6188044,25.0723549 ]
+    },
+    "properties": {
+    "name":"安泰藍鵲育兒友善園",
+    "town":"內湖區",
+    "address":"臺北市內湖區康樂街136巷3弄8號1樓",
+    "marker":"",
+    "contact":"(02)26308850",
+    "type":"育兒友善園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.562699,24.9840853 ]
+    },
+    "properties": {
+    "name":"親親寶貝育兒友善園",
+    "town":"文山區",
+    "address":"臺北市文山區興隆路4段165巷14號1樓",
+    "marker":"",
+    "contact":"(02)29395932",
+    "type":"育兒友善園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5405446,25.0475413 ]
+    },
+    "properties": {
+    "name":"娃娃藝術探索屋",
+    "town":"中山區",
+    "address":"臺北市中山區龍江路15號3樓",
+    "marker":"",
+    "contact":"(02)27400040",
+    "type":"育兒友善園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5582864,25.0594388 ]
+    },
+    "properties": {
+    "name":"臺北市私立童欣寶貝熊托嬰中心",
+    "town":"松山區",
+    "address":"臺北巿松山區民生東路5段69巷2弄32號1樓",
+    "marker":"",
+    "contact":"(02)2764-2209",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.547101,25.0248932 ]
+    },
+    "properties": {
+    "name":"和平Kids-Care館育兒友善園",
+    "town":"大安區",
+    "address":"臺北市大安區和平東路三段11巷15號1樓",
+    "marker":"",
+    "contact":"(02)23623022",
+    "type":"育兒友善園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4967671,25.0197643 ]
+    },
+    "properties": {
+    "name":"小貓熊FUN_KIDS屋",
+    "town":"萬華區",
+    "address":"臺北市萬華區萬大路486巷11弄14號1樓",
+    "marker":"",
+    "contact":"(02)23050601",
+    "type":"育兒友善園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5226684,25.0892037 ]
+    },
+    "properties": {
+    "name":"臺北市士林親子館",
+    "town":"士林區",
+    "address":"臺北市士林區基河路130號1樓",
+    "marker":"",
+    "contact":"(02)28830262",
+    "type":"親子館",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5151382,25.0607182 ]
+    },
+    "properties": {
+    "name":"臺北市大同親子館",
+    "town":"大同區",
+    "address":"臺北市大同區涼州街２-16號",
+    "marker":"",
+    "contact":"(02)25571403",
+    "type":"親子館",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5553393,25.0353285 ]
+    },
+    "properties": {
+    "name":"臺北市大安親子館",
+    "town":"大安區",
+    "address":"臺北市大安區延吉街246巷10號1至3樓",
+    "marker":"",
+    "contact":"(02)23254399",
+    "type":"親子館",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5205405,25.0703871 ]
+    },
+    "properties": {
+    "name":"臺北市中山親子館",
+    "town":"中山區",
+    "address":"臺北市中山區玉門街1號",
+    "marker":"",
+    "contact":"(02)25980657",
+    "type":"親子館",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5222359,25.0391392 ]
+    },
+    "properties": {
+    "name":"臺北市中正親子館",
+    "town":"中正區",
+    "address":"臺北市中正區仁愛路1段17號3樓",
+    "marker":"",
+    "contact":"(02)23516730",
+    "type":"親子館",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5683655,25.0823089 ]
+    },
+    "properties": {
+    "name":"臺北市內湖親子館",
+    "town":"內湖區",
+    "address":"臺北市內湖區內湖路1段659號2樓",
+    "marker":"",
+    "contact":"(02)77097990",
+    "type":"親子館",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.579916,24.998248 ]
+    },
+    "properties": {
+    "name":"臺北市文山親子館",
+    "town":"文山區",
+    "address":"臺北市文山區木柵路1段177號2樓",
+    "marker":"",
+    "contact":"(02)22365186",
+    "type":"親子館",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4992651,25.1324086 ]
+    },
+    "properties": {
+    "name":"臺北市北投親子館",
+    "town":"北投區",
+    "address":"臺北市北投區光明路22號1、2樓",
+    "marker":"",
+    "contact":"(02)28983217",
+    "type":"親子館",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5629083,25.0593151 ]
+    },
+    "properties": {
+    "name":"臺北市松山親子館",
+    "town":"松山區",
+    "address":"臺北市松山區民生東路5段163-1號3樓",
+    "marker":"",
+    "contact":"(02)27661266",
+    "type":"親子館",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5620166,25.0316288 ]
+    },
+    "properties": {
+    "name":"臺北市信義親子館",
+    "town":"信義區",
+    "address":"臺北市信義區松勤街50號",
+    "marker":"",
+    "contact":"(02)27202555",
+    "type":"親子館",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.613465,25.056454 ]
+    },
+    "properties": {
+    "name":"臺北市南港親子館",
+    "town":"南港區",
+    "address":"臺北市南港區南港路1段287巷2弄15號1樓",
+    "marker":"",
+    "contact":"(02)26510558",
+    "type":"親子館",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5070411,25.023944 ]
+    },
+    "properties": {
+    "name":"臺北市萬華親子館",
+    "town":"萬華區",
+    "address":"臺北市萬華區水源路199號2樓",
+    "marker":"",
+    "contact":"(02)23047468",
+    "type":"親子館",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5828992,25.0389981 ]
+    },
+    "properties": {
+    "name":"臺北市廣慈親子館",
+    "town":"信義區",
+    "address":"臺北市信義區大道路116-3號1樓",
+    "marker":"",
+    "contact":"(02)27599796",
+    "type":"親子館",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5285045,25.1024975 ]
+    },
+    "properties": {
+    "name":"小小貓頭鷹玩樂屋",
+    "town":"士林區",
+    "address":"臺北市士林區雨聲街53巷1號1樓",
+    "marker":"",
+    "contact":"(02)28360200",
+    "type":"育兒友善園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.596101,25.0811491 ]
+    },
+    "properties": {
+    "name":"臺北市星雲社區公共托育家園",
+    "town":"內湖區",
+    "address":"臺北市內湖區星雲街161巷3號1樓",
+    "marker":"",
+    "contact":"(02)87922462",
+    "type":"社區公共托育家園",
+    "assessYear":111,
+    "assess":"優",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6137073,25.0344108 ]
+    },
+    "properties": {
+    "name":"久如FUNNY_KIDS童趣探索屋",
+    "town":"南港區",
+    "address":"臺北市南港區研究院路3段86巷1樓",
+    "marker":"",
+    "contact":"(02)26519993",
+    "type":"育兒友善園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5259527,25.0238706 ]
+    },
+    "properties": {
+    "name":"大安小古意歡樂園",
+    "town":"大安區",
+    "address":"臺北市大安區浦城街16巷11號1樓",
+    "marker":"",
+    "contact":"(02)23651301",
+    "type":"育兒友善園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5100341,25.0245909 ]
+    },
+    "properties": {
+    "name":"臺北市亭中社區公共托育家園",
+    "town":"萬華區",
+    "address":"臺北市萬華區中華路2段606號3號2樓",
+    "marker":"",
+    "contact":"(02)23019738",
+    "type":"社區公共托育家園",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5416284,25.0417406 ]
+    },
+    "properties": {
+    "name":"臺北市私立璽愛托嬰中心",
+    "town":"大安區",
+    "address":"臺北巿大安區忠孝東路3段251巷4弄8號1樓",
+    "marker":"",
+    "contact":"(02)2752-5968",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5430644,25.0351892 ]
+    },
+    "properties": {
+    "name":"臺北市私立勁寶兒大安托嬰中心",
+    "town":"大安區",
+    "address":"臺北巿大安區信義路3段147巷15弄27之1號2樓",
+    "marker":"",
+    "contact":"(02)2701-4094",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5090838,25.1187963 ]
+    },
+    "properties": {
+    "name":"臺北市私立小腳丫大未來托嬰中心",
+    "town":"北投區",
+    "address":"臺北巿北投區吉利街207號",
+    "marker":"",
+    "contact":"(02)2821-6575",
+    "type":"私立托嬰中心",
+    "assessYear":null,
+    "assess":"",
+    "webpage":""
+    }
+  }
+]
+}
